@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.11)  12 APR 2018 21:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.11)  12 APR 2018 00:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**rapportTW.tex
-(./rapportTW.tex
+**rapportTN07.tex
+(./rapportTN07.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 7 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -369,18 +369,34 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/02/24 3.9q The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/frenchb.ldf
+Language: frenchb 2016/02/13 v3.1l French support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/02/24 3.9q Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen105
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FBcolonskip=\skip43
+\FBthinskip=\skip44
+Package babel Info: Making : an active character on input line 342.
+Package babel Info: Making ; an active character on input line 343.
+Package babel Info: Making ! an active character on input line 344.
+Package babel Info: Making ? an active character on input line 345.
+\FBguillskip=\skip45
+\FBguill@level=\count90
+\FB@everypar=\toks17
+\FB@Mht=\dimen106
+\std@mcc=\count91
+\dec@mcc=\count92
+\listindentFB=\skip46
+\labelwidthFB=\skip47
+\leftmarginFB=\skip48
+\parindentFFN=\dimen107
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -389,54 +405,54 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip43
-\f@ncyO@elh=\skip44
-\f@ncyO@erh=\skip45
-\f@ncyO@olh=\skip46
-\f@ncyO@orh=\skip47
-\f@ncyO@elf=\skip48
-\f@ncyO@erf=\skip49
-\f@ncyO@olf=\skip50
-\f@ncyO@orf=\skip51
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) (./titlepic.sty
-Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
-
 )
-(./rapportTW.aux)
-\openout1 = `rapportTW.aux'.
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./rapportTN07.aux)
+\openout1 = `rapportTN07.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 41.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count90
-\scratchdimen=\dimen106
+\scratchcounter=\count93
+\scratchdimen=\dimen108
 \scratchbox=\box26
-\nofMPsegments=\count91
-\nofMParguments=\count92
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count93
-\MPscratchDim=\dimen107
-\MPnumerator=\count94
-\makeMPintoPDFobject=\count95
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen109
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -485,201 +501,374 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Info: Redefining \degres on input line 41.
+LaTeX Info: Redefining \dots on input line 41.
+LaTeX Info: Redefining \up on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 41.
+(Font)              <20.74> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 41.
+(Font)              <14.4> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <12> on input line 42.
 
-<teamwork.jpeg, id=1, 279.0425pt x 181.67876pt>
-File: teamwork.jpeg Graphic file (type jpg)
- <use teamwork.jpeg>
-Package pdftex.def Info: teamwork.jpeg used on input line 41.
-(pdftex.def)             Requested size: 272.99881pt x 177.75009pt.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./teamwork.jpeg>]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
- (./rapportTW.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `rapportTW.toc'.
-
-[1
-
-]
-Chapter 1.
-[2
-
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 50.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 53.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
-
-<logo_tuke.png, id=15, 284.5029pt x 284.262pt>
-File: logo_tuke.png Graphic file (type png)
- <use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 68.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-
-<logo_utc.png, id=17, 324.21124pt x 156.585pt>
-File: logo_utc.png Graphic file (type png)
- <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 68.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [3 <./logo_tuke.png> <./logo_utc.png>]
-File: logo_tuke.png Graphic file (type png)
- <use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 85.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-File: logo_utc.png Graphic file (type png)
- <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 85.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [4]
-File: logo_tuke.png Graphic file (type png)
-
-<use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 98.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-File: logo_utc.png Graphic file (type png)
- <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 98.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [5]
-Chapter 2.
-[6
-
-]
-File: logo_tuke.png Graphic file (type png)
- <use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 120.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-File: logo_utc.png Graphic file (type png)
- <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 120.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [7]
-File: logo_tuke.png Graphic file (type png)
- <use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 142.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-File: logo_utc.png Graphic file (type png)
-
-<use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 142.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [8]
-Chapter 3.
-[9
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 151--155
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--164
-
- []
-
-File: logo_tuke.png Graphic file (type png)
-<use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 166.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
-File: logo_utc.png Graphic file (type png)
- <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 166.
-(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [10]
-<france.jpg, id=47, 1445.4pt x 903.375pt>
+<france.jpg, id=1, 1445.4pt x 903.375pt>
 File: france.jpg Graphic file (type jpg)
  <use france.jpg>
-Package pdftex.def Info: france.jpg used on input line 194.
-(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+Package pdftex.def Info: france.jpg used on input line 42.
+(pdftex.def)             Requested size: 390.0pt x 243.7491pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 42.
+ [1
 
-<slovakia.jpg, id=48, 963.6pt x 483.30562pt>
-File: slovakia.jpg Graphic file (type jpg)
- <use slovakia.jpg>
-Package pdftex.def Info: slovakia.jpg used on input line 195.
-(pdftex.def)             Requested size: 433.616pt x 217.48552pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./france.jpg>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
+ (./rapportTN07.toc
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
 
-Overfull \hbox (43.62335pt too wide) in paragraph at lines 194--196
-[]
+Runaway argument?
+{The thing that you are glad to have here in the shop is the miraculo\ETC.
+! Paragraph ended before \@dottedtocline was complete.
+<to be read again> 
+                   \par 
+l.33 ...nate. In Suomi\let \reserved@d =[\def \par
+                                                   }{9}
+? 
+! Extra }, or forgotten \endgroup.
+l.33 ...te. In Suomi\let \reserved@d =[\def \par }
+                                                  {9}
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...ctu\IeC {\'e} (en fran\IeC {\c c}ais)}{16}
+                                                  
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...ctu\IeC {\'e} (en fran\IeC {\c c}ais)}{16}
+                                                  
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 83.
+
+Overfull \hbox (6.89845pt too wide) in paragraph at lines 91--91
+[]\T1/ptm/b/n/14.4 IV Ca-pi-ta-li-sa-tion de l'ex-pé-rience TN07 à l'étran-ger 
+(en fran- 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `rapportTN07.toc'.
+
+ [1
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 56.
+ [1] [2
+
+]
+Overfull \hbox (10.92616pt too wide) in paragraph at lines 75--75
+ \T1/ptm/b/n/12 De-par-ture from the ap-part-ment at 5 :30am. Ar-ri-ved in Hel-
+sinki at 10 :00am.
  []
 
 
-Overfull \hbox (43.616pt too wide) in paragraph at lines 194--196
-[] 
- []
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-File: logo_tuke.png Graphic file (type png)
-<use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 196.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
+<logo_utc.png, id=18, 324.21124pt x 156.585pt>
 File: logo_utc.png Graphic file (type png)
  <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 196.
+Package pdftex.def Info: logo_utc.png used on input line 75.
 (pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [11]
-File: logo_tuke.png Graphic file (type png)
- <use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 196.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
+
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 31.31644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./logo_utc.png>]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 81.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [4]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 87.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [5]
+
+! Package inputenc Error: Unicode char Â° (U+B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \paragraph
+               {Day 10 : Wednesday, 26 July}
+? 
+
+! Package inputenc Error: Unicode char â‚¬ (U+20AC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \paragraph
+               {Day 11 : Thursday, 27 July}
+? 
+File: logo_utc.png Graphic file (type png)
+<use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 96.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [6]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 102.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [7]
+
+! Package inputenc Error: Unicode char â‚¬ (U+20AC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \paragraph
+                {Day 15 : Monday, 31 July}
+? 
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.111 \paragraph
+                {Day 16 : Tuesday, 01 August}
+? 
+Runaway argument?
+{\normalfont \normalsize \bfseries }{\@xfootnote }\def \reserved@b {\stepcounte
+r \ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.111 \paragraph
+                {Day 16 : Tuesday, 01 August}
+? 
+File: logo_utc.png Graphic file (type png)
+<use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 111.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [8]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 117.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [9]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 126.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [10]
 File: logo_utc.png Graphic file (type png)
 
 <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 196.
+Package pdftex.def Info: logo_utc.png used on input line 132.
 (pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [12 <./france.jpg> <./slovakia.jpg>] (./rapportTW.bbl
-File: logo_tuke.png Graphic file (type png)
-
-<use logo_tuke.png>
-Package pdftex.def Info: logo_tuke.png used on input line 1.
-(pdftex.def)             Requested size: 42.67358pt x 42.63745pt.
+ [11]
 File: logo_utc.png Graphic file (type png)
  <use logo_utc.png>
-Package pdftex.def Info: logo_utc.png used on input line 1.
+Package pdftex.def Info: logo_utc.png used on input line 144.
 (pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
- [13]) [14
+ [12]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 156.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [13]
+File: logo_utc.png Graphic file (type png)
 
-] (./rapportTW.aux) ) 
+<use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 166.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [14]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 180.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [15] [16
+
+]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 195.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+
+[17] [18
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 199.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 205.
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 205.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [19]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 214.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [20]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 220.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+
+[21]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 231.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [22]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 231.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [23] [24
+
+]
+Overfull \hbox (13.7723pt too wide) in paragraph at lines 256--256
+\T1/ptm/b/n/12 Adresse, prix : Pel-toin-lah-den-tie 23 54800 Sa-vi-tai-pale FIN
+-LAND, gra-tuit puisque
+ []
+
+File: logo_utc.png Graphic file (type png)
+<use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 256.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [25]
+File: logo_utc.png Graphic file (type png)
+ <use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 256.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [26] [27
+
+]
+! Undefined control sequence.
+\@svsechd ...ries {\hskip \z@ \relax \@svsec \url 
+                                                  {http://stackoverflow.com/...
+l.270 \end{document}
+                    
+? 
+! Undefined control sequence.
+\@svsechd .../rpk/index$$\_$$en.html\newline \url 
+                                                  {https://www.inhesj.fr/fr/...
+l.270 \end{document}
+                    
+? 
+! Undefined control sequence.
+\@svsechd ...nt/rapport-annuel-2016}\newline \url 
+                                                  {http://www.freegan.fr/loi...
+l.270 \end{document}
+                    
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.270 \end{document}
+                    
+? 
+! Extra }, or forgotten $.
+\@svsechd ...p://www.freegan.fr/loi_poubelles.php}
+                                                  \newline }\csname paragrap...
+l.270 \end{document}
+                    
+? 
+! Extra }, or forgotten $.
+\@svsechd ...eegan.fr/loi_poubelles.php}\newline }
+                                                  \csname paragraphmark\endc...
+l.270 \end{document}
+                    
+? 
+! Undefined control sequence.
+<argument> ...me theparagraph\endcsname }\fi \url 
+                                                  {http://stackoverflow.com/...
+l.270 \end{document}
+                    
+? 
+! Undefined control sequence.
+<argument> ...rpk/index$$\_$$en.html\newline \url 
+                                                  {https://www.inhesj.fr/fr/...
+l.270 \end{document}
+                    
+? 
+! Undefined control sequence.
+<argument> ...t/rapport-annuel-2016}\newline \url 
+                                                  {http://www.freegan.fr/loi...
+l.270 \end{document}
+                    
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.270 \end{document}
+                    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.270 \end{document}
+                    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.270 \end{document}
+                    
+? 
+File: logo_utc.png Graphic file (type png)
+<use logo_utc.png>
+Package pdftex.def Info: logo_utc.png used on input line 270.
+(pdftex.def)             Requested size: 64.8411pt x 31.31644pt.
+ [28] (./rapportTN07.aux) ) 
 Here is how much of TeX's memory you used:
- 2681 strings out of 494883
- 33807 string characters out of 6178693
- 94698 words of memory out of 5000000
- 5917 multiletter control sequences out of 15000+600000
- 42647 words of font info for 54 fonts, out of 8000000 for 9000
+ 3335 strings out of 494883
+ 43856 string characters out of 6178693
+ 119973 words of memory out of 5000000
+ 6577 multiletter control sequences out of 15000+600000
+ 39845 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,14n,43p,853b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
-}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on rapportTW.pdf (15 pages, 1117052 bytes).
+ 38i,14n,43p,3173b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmr8a.pfb>
+Output written on rapportTN07.pdf (30 pages, 361460 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 124 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

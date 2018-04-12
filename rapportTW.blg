@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rapportTW.aux
+The style file: plain.bst
+Database file #1: bibli.bib.bib
+Warning--empty note in Manager:5
+Warning--empty note in Cmana:1
+Warning--empty note in Manager:6
+Warning--empty note in Manager:4
+Warning--empty note in GroupTeam:2
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            524 strings with 4479 characters,
+and the built_in function-call counts, 1092 in all, are:
+= -- 106
+> -- 42
+< -- 0
++ -- 20
+- -- 12
+* -- 47
+:= -- 220
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 37
+empty$ -- 78
+format.name$ -- 12
+if$ -- 203
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 32
+num.names$ -- 12
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 32
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 5
+while$ -- 12
+width$ -- 7
+write$ -- 54
+(There were 5 warnings)
